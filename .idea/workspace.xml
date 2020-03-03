@@ -4,7 +4,10 @@
     <option name="SCOPE_TYPE" value="3" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="31e10b06-3e70-4425-8062-f2bad2581866" name="Default Changelist" comment="" />
+    <list default="true" id="31e10b06-3e70-4425-8062-f2bad2581866" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Selenium.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Selenium.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -163,10 +166,10 @@
       <screen x="0" y="0" width="1440" height="860" />
     </state>
     <state x="159" y="16" width="1040" height="844" key="SettingsEditor/0.0.1440.860@0.0.1440.860" timestamp="1583175659769" />
-    <state x="416" y="254" key="com.intellij.ide.util.TipDialog" timestamp="1583174586862">
+    <state x="416" y="254" key="com.intellij.ide.util.TipDialog" timestamp="1583224854694">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
-    <state x="416" y="254" key="com.intellij.ide.util.TipDialog/0.0.1440.860@0.0.1440.860" timestamp="1583174586862" />
+    <state x="416" y="254" key="com.intellij.ide.util.TipDialog/0.0.1440.860@0.0.1440.860" timestamp="1583224854694" />
     <state x="224" y="328" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1582904674780">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
