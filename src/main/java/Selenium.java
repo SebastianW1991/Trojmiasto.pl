@@ -48,6 +48,7 @@ public class Selenium {
         else{
             System.out.println("All advertisement subpage title is incorrect and is " + actualAdvertTitle + " instead of");
         }
+
         String properAdvertURL = "https://ogloszenia.trojmiasto.pl/";
         String actualAdvertURL = driver.getCurrentUrl();
         System.out.println("Test of URL correctness:");
