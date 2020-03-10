@@ -60,7 +60,15 @@ public class Selenium {
 
 
 
-        driver.quit();
+        driver.navigate().back();
+        WebElement element4 = driver.findElement(By.partialLinkText("Dodaj"));
+        builder.moveToElement(element);
+        builder.moveToElement(element2);
+        builder.moveToElement(element4);
+        builder.click().build().perform();
+
+
+
 
 
     }
